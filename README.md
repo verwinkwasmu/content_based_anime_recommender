@@ -1,7 +1,7 @@
 # content_based_anime_recommender
 A content-based anime recommender built from a dataset that is web-scraped from the top anime series imdb web content
 
-### The web scrape script is built using python with the packages: pandas, beautifulsoup & requests.
+### The web scrape script is built using python with the packages: pandas, beautifulsoup & requests. The dataset contains 200 rows, and metadata consisting of Title, Rank, Score, Synopsis & Genre.
 
 ### The recommender is built using python with the packages: pandas, numpy, Rake and sklearn (cosine_similarity & CountVectorizer)
 
